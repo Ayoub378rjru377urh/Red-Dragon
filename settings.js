@@ -35,7 +35,7 @@ global.btnurl = 'https://www.youtube.com/channel/UCPvrnWknQrgCSIeobXMP0Uw' //Cha
 global.region = 'India, South India, Kerala' //Country Region
 
 global.packname = '🔥E.N.D🔥' //Bot Pacage Name
-global.author = '+96891103640❯❯' //Author Name
+global.author = '+212656152459❯❯' //Author Name
 global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor
