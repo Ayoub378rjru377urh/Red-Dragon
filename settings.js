@@ -22,12 +22,12 @@ global.APIKeys = {
 global.alivemsg = `My name is Natsu🔥
 My Creator AYATO 😎` //Costomize Alive Message (type your message in `` )
 
-global.owner = ['+96891103640'] //Owner number in aive msg
-global.premium = ['+96891103640'] //Owner Number info
-global.ownernomer = '+96891103640' //Owner Number <<<
+global.owner = ['+212656152459'] //Owner number in aive msg
+global.premium = ['+212656152459'] //Owner Number info
+global.ownernomer = '+212656152459' //Owner Number <<<
 
-global.ownername = '🔥AYATO🔥' //Owner Name
-global.botname = '🔥NATSU DRAGNEEL🔥' //Bot Name
+global.ownername = '🔥AYOUB🔥' //Owner Name
+global.botname = '🔥AYOUB🔥' //Bot Name
 
 global.button = 'YouTube 📍' //Costomize A Button Name In Alive Message
 global.btnurl = 'https://www.youtube.com/channel/UCPvrnWknQrgCSIeobXMP0Uw' //Change Your Button's URL
